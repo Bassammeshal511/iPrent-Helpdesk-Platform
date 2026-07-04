@@ -4,7 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Virtual environment
+# Virtual environments
 .venv/
 env/
 venv/
@@ -17,14 +17,43 @@ database.db
 models/*.h5
 models/*.pb
 
+# Dependency directories
+__pypackages__/
+
 # IDE/editor
 .vscode/
 .idea/
 
 # Environment
 .env
+.envrc
 env.local
 
 # OS files
 Thumbs.db
 .DS_Store
+
+# Build files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Static site generators
+docs/_build/
+
+# Test and coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Python packaging
+*.manifest
+*.spec
+
+# Notebook checkpoints
+.ipynb_checkpoints/
