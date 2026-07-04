@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# SQLite database
+database.db
+*.db
+
+# Model and large binary files
+models/*.h5
+models/*.pb
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Environment
+.env
+env.local
+
+# OS files
+Thumbs.db
+.DS_Store
