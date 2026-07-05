@@ -1,4 +1,4 @@
-# iPrent Helpdesk Platform
+# iPrent Helpdesk Platform 🛠️
 
 **Enterprise-ready IT support desk with AI-powered ticket triage, printer and device monitoring, and executive reporting.**
 
@@ -6,55 +6,55 @@
 
 ---
 
-## Executive summary
+## Executive summary 🎯
 
 `iPrent Helpdesk Platform` is designed for IT operations teams that require a modern helpdesk environment with built-in intelligence and real-time infrastructure awareness. It combines:
 
-- AI-driven ticket classification and response guidance
-- Priority-based ticket routing for faster SLA compliance
-- Printer and device health monitoring with automated alerts
-- Executive dashboard visuals for rapid decision-making
-- Clean Arabic-first user experience for regional deployment
+- 🔍 AI-driven ticket classification and response guidance
+- 📤 Priority-based ticket routing for faster SLA compliance
+- 📡 Printer and device health monitoring with automated alerts
+- 📊 Executive dashboard visuals for rapid decision-making
+- 🌐 Arabic-first user experience for regional deployment
 
 ---
 
-## Workflow overview
+## Workflow overview ⚙️
 
-1. User login and ticket submission
-2. AI classification of issue type, category, and priority
-3. Automated ticket routing to the appropriate support queue
-4. Real-time status updates for open, in-progress, and resolved tickets
-5. Continuous printer and device monitoring with proactive alerts
-6. Executive dashboard analytics for operational performance
+1. 🔐 User login and ticket submission
+2. 🤖 AI classification of issue type, category, and priority
+3. 🔀 Automated ticket routing to the appropriate support queue
+4. 🔄 Real-time status updates for open, in-progress, and resolved tickets
+5. 📡 Continuous printer and device monitoring with proactive alerts
+6. 📈 Executive dashboard analytics for operational performance
 
-This workflow is built to support both helpdesk agents and IT managers with visibility, speed, and data-driven prioritization.
+This workflow supports both helpdesk agents and IT managers with visibility, speed, and data-driven prioritization.
 
 ---
 
 ## Preview
 
-### Dashboard overview
+### Dashboard overview 🖥️
 
 ![Dashboard view](docs/screenshots/dashboard.png)
 
-### Ticket management and lifecycle
+### Ticket management and lifecycle 🎟️
 
 ![Ticket management view](docs/screenshots/tickets.png)
 
-### Printer and device operations
+### Printer and device operations 🖨️
 
 ![Printer operations view](docs/screenshots/printers.png)
 
 ---
 
-## Key capabilities
+## Key capabilities ✨
 
-- AI-assisted ticket classification and suggested response generation
-- Ticket lifecycle tracking: Open, In Progress, Resolved
-- Dynamic priority scoring and critical incident alerts
-- Printer ink-level monitoring, offline detection, and status warnings
-- Support for printers, network infrastructure, hardware, and software incidents
-- Executive dashboard with metrics, charts, and actionable insights
+- 🤖 AI-assisted ticket classification and suggested response generation
+- 🗂️ Ticket lifecycle tracking: Open, In Progress, Resolved
+- 🚨 Dynamic priority scoring and critical incident alerts
+- 🖨️ Printer ink-level monitoring, offline detection, and status warnings
+- 🖥️ Support for printers, network infrastructure, hardware, and software incidents
+- 📊 Executive dashboard with metrics, charts, and actionable insights
 
 ---
 
