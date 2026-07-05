@@ -41,6 +41,10 @@ This workflow supports both helpdesk agents and IT managers with visibility, spe
 
 ![Ticket management view](docs/screenshots/tickets.png)
 
+#### Ticket details / New ticket modal
+
+![Ticket modal view](docs/screenshots/tickets_modal.png)
+
 ### Printer and device operations 🖨️
 
 ![Printer operations view](docs/screenshots/printers.png)
