@@ -1,9 +1,20 @@
-# <div align="center">
-<h1>iPrent Helpdesk Platform 🛠️</h1>
+<div align="center">
+<h1>🚀 iPrent Helpdesk Platform</h1>
 
-<p><strong>Enterprise-ready IT support desk with AI-powered ticket triage, printer and device monitoring, and executive reporting.</strong></p>
+<p><em>Enterprise-ready IT support desk with AI-powered ticket triage, printer and device monitoring.</em></p>
 
-<p><a href="https://github.com/Bassammeshal511/iPrent-Helpdesk-Platform">View this repository on GitHub</a></p>
+<p>
+<img src="https://img.shields.io/badge/PRS-WELCOME-brightgreen" alt="welcome" />
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="python" />
+&nbsp;
+<img src="https://img.shields.io/badge/Flask-Framework-orange" alt="flask" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI-Ticket%20Model-purple" alt="ai" />
+&nbsp;
+<img src="https://img.shields.io/badge/License-MIT-yellow" alt="license" />
+</p>
+
 </div>
 
 ---
