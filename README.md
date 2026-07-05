@@ -1,8 +1,10 @@
-# iPrent Helpdesk Platform 🛠️
+# <div align="center">
+<h1>iPrent Helpdesk Platform 🛠️</h1>
 
-**Enterprise-ready IT support desk with AI-powered ticket triage, printer and device monitoring, and executive reporting.**
+<p><strong>Enterprise-ready IT support desk with AI-powered ticket triage, printer and device monitoring, and executive reporting.</strong></p>
 
-[View this repository on GitHub](https://github.com/Bassammeshal511/iPrent-Helpdesk-Platform)
+<p><a href="https://github.com/Bassammeshal511/iPrent-Helpdesk-Platform">View this repository on GitHub</a></p>
+</div>
 
 ---
 
